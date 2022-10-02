@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @socode-marcelo
-- I hack things and code stuff, ΤΒΠ member with a MSc. on Cyber Security
+- I hack things and code stuff
+- ΤΒΠ member with a MSc. on Cyber Security
 - 📫 marcelo@stackovercode.com
 - [![Linkedin](linkedinicon.png) My Profile](https://marcelo.triana.dev/)
 
