@@ -2,7 +2,8 @@
 - I hack things and code stuff
 - ΤΒΠ member with a MSc. on Cyber Security
 - 📫 marcelo@stackovercode.com
-- [![Linkedin](linkedinicon.png) My Profile](https://marcelo.triana.dev/)
+- 🌎 https://stackovercode.com 
+- [![Linkedin](linkedinicon.png) LinkedIn](https://marcelo.triana.dev/)
 
 # Experience
 
